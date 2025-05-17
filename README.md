@@ -1,2 +1,3 @@
-# Vehicle-type-identification
+# 车辆类型识别
 CNN技术
+train.py文件用于训练,test.py文件用于测试，有每个对应的卷积神经网络模型的训练和测试文件。数据集为ZIP压缩包分卷。
